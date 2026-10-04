@@ -1,0 +1,73 @@
+name,country,founded,tier,segment,modality,application,value_chain_position,maturity,business_model,last_funding_round,valuation,source_urls,confidence
+g.tec medical engineering GmbH,Austria,1999,Q1,Non-Invasive,"EEG, ECoG","Research, Clinical (Stroke Rehab)","Hardware, Software, Platform",Commercial,B2B (Sales to Researchers/Hospitals),Unknown,$75M–$105M (Estimate),https://gtec.at,A
+Cefaly,Belgium,2008,Q1,Non-Invasive,EEG/tENS,Medical (Migraine & Pain Management),Hardware,Scaled,B2C,Unknown,Unknown,https://cefaly.com,A
+Clouds of Care,Belgium,2014,Q1,Non-Invasive,EEG,Medical/Research,Platform/Data,Commercial,B2B,"2023, Series A",Unknown,https://cloudsofcare.com,A
+Cognixion,Belgium,2016,Q2,Non-Invasive,EEG,Medical (ALS & Communication),Hardware/ML,Clinical,B2B,"2022, $2M Seed",Unknown,https://cognixion.com,B
+BrainAccess,Slovenia,2015,Q2,Non-Invasive,EEG,Research,Hardware/DSP,Commercial,B2B,Unknown,Unknown,https://brainaccess.com,B
+mBrainTrain,Serbia,2012,Q2,Non-Invasive,EEG,"Research, Real-World Neuroscience","Hardware, Software",Commercial,B2B (Sales to Researchers),Unknown,Unknown,https://mbraintrain.com,B
+Cerebionics,Latvia,2021,Q2,Non-Invasive,EEG,Medical,Hardware/ML,Preclinical,B2B,"2023, Pre-Seed",Unknown,https://cerebionics.com,B
+BirgerMind,Latvia,2020,Q1,Non-Invasive,EEG,Medical,Hardware/App,Preclinical,B2B,"2022, Grant/Seed",Unknown,https://birgermind.com,A
+ANT Neuro,Netherlands,2008,Q1,Non-Invasive,EEG,Research/Medical,Hardware,Commercial,B2B,"2019, Acquired by Braincredible",Unknown,https://ant-neuro.com,A
+Artinis Medical Systems,Netherlands,1998,Q1,Non-Invasive,fNIRS,Research/Medical,Hardware,Commercial,B2B,Unknown,Unknown,https://artinis.com,A
+Holland Neurotech,Netherlands,2015,Q2,Non-Invasive,EEG,Research,Hardware/Service,Commercial,B2B,Unknown,Unknown,https://hollandneurotech.com,B
+MindMedia,Netherlands,1992,Q2,Non-Invasive,EEG,Research/Medical,Hardware/DSP,Scaled,B2B,Unknown,Unknown,https://mindmedia.com,B
+ONWARD Medical N.V.,Netherlands,2012,Q1,Invasive,Epidural Cortical Recording,Medical (Spinal Cord Injury),"Hardware, Software",Clinical,Medical Device Sales,Growth Equity ($55M),$214M (Market Cap),https://onwardmedical.com,A
+Phosphoenix,Netherlands,2019,Q1,Invasive,High-density Implantable Neuroprosthetic System,Medical (Vision Restoration for Profound Blindness),"Hardware, R&D",Preclinical/Clinical,B2B (Medical Device),Pre-Seed (€1.3M in 2026),Unknown,https://phosphoenix.nl,A
+Somneo (Philips),Netherlands,2018,Q1,Non-Invasive,EEG,Consumer,Hardware/App,Commercial,B2C,Internal,Unknown,https://philips.com/somneo,A
+UCANACT,Netherlands,2023,Q2,Non-Invasive,Brain-Computer Interface (Speech decoding),Medical (Severe Motor Disabilities),"Hardware, Software, AI",Preclinical,B2B/B2C,Pre-Seed (€800K in 2024),Unknown,https://ucanact.com,B
+Zander Labs,Netherlands/Germany,2016,Q2,Non-Invasive,Passive BCI / EEG,Human-Machine Interaction / Neuroadaptive Tech,Hardware/Software,Commercial,B2B/B2G,"2023, $1.7M Seed",Unknown,https://zanderlabs.com,B
+Mendi,Norway,2019,Q1,Non-Invasive,fNIRS,Consumer (Focus & Stress),Hardware/App,Commercial,B2C,"2022, $3M Seed",Unknown,https://mendi.com,A
+Neuroon,Poland,2016,Q2,Non-Invasive,EEG,Consumer (Sleep & Meditation),Hardware,Commercial,B2C,"2019, $1.5M Seed",Unknown,https://neuroon.com,B
+Neuroon Open,Poland,2020,Q2,Non-Invasive,EEG,Research/Consumer,Hardware,Commercial,B2B,"2021, $1M Seed",Unknown,https://neuroon.com,B
+BrainBit,Russia,2015,Q2,Non-Invasive,EEG,Research/Consumer,Hardware,Commercial,B2B,Unknown,Unknown,https://brainbit.com,B
+Neurosoft,Russia,1992,Q2,Non-Invasive,EEG,Medical,Hardware,Commercial,B2B,Unknown,Unknown,https://neurosoft.ru,B
+AI-Stroke,France,2022,Q3,Non-Invasive,AI (Video Analysis),Medical (Pre-CT Stroke Triage),Software (SaMD),Commercial,Unknown,Seed ($4.6M in 2025),Unknown,https://ai-stroke.com,B
+BIOSerenity,France,2014,Q1,Non-Invasive,"Wearable EEG, AI-guided diagnostics","Medical (Epilepsy, Sleep, Neurological Diagnostics)","Hardware, Software, AI Platform",Commercial,B2B (Hospitals/Clinics),Series B (Undisclosed),Unknown,https://bioserenity.ai,A
+Dreem,France,2015,Q1,Non-Invasive,EEG,Consumer/Medical (Sleep),Hardware/App,Acquired,B2C,"2022, Acquired by Withings",Unknown,https://dreem.com,A
+INSPEAR,France,2021,Q3,Non-Invasive,EEG,Research,"Software, Platform",Research,R&D / Future Licensing,Seed ($5M in Jan 2022),Unknown,https://inspear.com,C
+Manitty,France,2021,Q3,Non-Invasive,EEG,Medical (Health Monitoring),"Hardware, AI Platform",Commercial,B2B (Enterprise Health),Unknown,Unknown,https://manitty.com,C
+Mentalab,France,2017,Q2,Non-Invasive,EEG,Research/Consumer,Hardware,Commercial,B2B,"2022, $2M Seed",Unknown,https://mentalab.com,B
+NextMind,France,2018,Q1,Non-Invasive,EEG,Consumer,Hardware/ML,Acquired,B2C,"2022, Acquired by Snap Inc.",Unknown,https://nextmind.com,A
+OpenVibe,France,2008,Q1,Non-Invasive,EEG,Research,Software/Platform,Research,Open Source,INRIA project,Unknown,https://openvibe.inria.fr,A
+Raidium,France,2022,Q2,Non-Invasive,AI Foundation Models (Radiology/Neuro),"Medical (Precision Medicine, Diagnostics)","Software, AI Platform",Preclinical/Commercial,B2B,Seed / Pre-Seed,Unknown,https://raidium.eu,B
+Robeauté,France,2021,Q2,Invasive/Hybrid,ECoG,Medical,Hardware,Preclinical,B2B,"2023, Pre-Seed",Unknown,https://robeaute.com,B
+Sonomind,France,2024,Q3,Non-Invasive,Ultrasound Neuromodulation,Medical (Treatment-Resistant Depression),"Hardware, Platform",Preclinical,R&D / Future Licensing,Series A ($20M in 2024),Unknown,https://sonomind.com,B
+UrgoTech (Focus),France,2015,Q2,Non-Invasive,EEG/tDCS,Medical,Hardware,Clinical,B2B,"2020, Series B",Unknown,https://urgotech.fr,B
+Yneuro,France,2018,Q2,Non-Invasive,EEG,Research,ML/Platform,Research,B2B,Unknown,Unknown,https://yneuro.com,B
+Brain Products GmbH,Germany,1997,Q1,Non-Invasive,EEG,Research/Medical,Hardware,Scaled,B2B,Unknown,Unknown,https://brainproducts.com,A
+BrainBay,Germany,2002,Q2,Non-Invasive,EEG,Research,Software/DSP,Research,Open Source,Unknown,Unknown,https://shifz.org/brainbay,B
+BrainVision,Germany,2000,Q1,Non-Invasive,EEG,Research,Hardware/Software,Commercial,B2B,Unknown,Unknown,https://brainvision.com,A
+CEREGATE GmbH,Germany,2019,Q2,Invasive/Hybrid,Software-based Computer-Brain-Interface,Medical (Parkinson's & Neuromodulation augmentation),Software/Platform,Clinical,B2B,HTGF Financing / Series A,Unknown,https://ceregate.com,B
+Cognetix,Germany,2008,Q2,Non-Invasive,EEG,Research/Medical,Software/Hardware,Commercial,B2B,Unknown,Unknown,https://cognetix.de,B
+CorTec GmbH,Germany,2010,Q1,Invasive,"ECoG, EEG, Stimulation","Medical (Chronic Pain, Stroke, Epilepsy)","Hardware, Software, R&D",Clinical,Medical Device Sales,Series C / Grant (Nov 2019 / Feb 2023),$35M–$60M (Estimate),https://cortec-neuro.com,B
+Neurosphere,Germany,2016,Q3,Non-Invasive,EEG,"Consumer (Wellness, Cognitive Training)","Hardware, App",Commercial,B2B / B2C (Corporate Wellness),Unknown,Unknown,https://neurosphere.de,B
+RehaCom,Germany,2010,Q2,Non-Invasive,EEG,Medical,Software,Commercial,B2B,Unknown,Unknown,https://rehacom.com,B
+BrainSigns,Italy,2010,Q2,Non-Invasive,"EEG, Physiological Signal Analysis","Research, Industrial, Neuroscience Applications","Hardware, Software, ML Platform",Commercial,B2B,Unknown,Unknown,https://brainsigns.com,B
+Corticale,Italy,2019,Q2,Invasive/Semi-Invasive,High-density CMOS-based Neural Interfaces (SiNAPS),"Medical, Research, Large-scale Brain Mapping","Hardware, OEM",Preclinical,B2B,Seed / Grant,Unknown,https://corticale.com,B
+Pulsetto,Italy,2020,Q2,Non-Invasive,EEG/Vagus,Consumer (Stress & Sleep),Hardware/App,Commercial,B2C,"2023, Pre-Seed",Unknown,https://pulsetto.com,B
+Bitbrain,Spain,2013,Q1,Non-Invasive,EEG,"Research, Automotive, Aviation","Software, Platform",Commercial,Unknown,$1.9M (Total Funding),Unknown,https://bitbrain.com,B
+CogniFit,Spain,1999,Q2,Non-Invasive,EEG/Cognitive,Medical/Consumer,Software/App,Scaled,B2B,"2021, Series B",Unknown,https://cognifit.com,B
+Elevvo Therapeutics,Spain,2022,Q3,Non-Invasive,"EEG, Closed-loop Neurofeedback","Medical (Alzheimer's, Cognitive Decline)","Hardware, Software, Therapeutic Platform",Preclinical/Clinical,B2B/B2C,Seed / Grant (Santander X),Unknown,https://elevvo.com,C
+Enobio,Spain,2011,Q1,Non-Invasive,EEG,Research,Hardware,Commercial,B2B,Unknown,Unknown,https://neuroelectrics.com,A
+Eodyne Systems,Spain,2014,Q2,Non-Invasive,Digital & Sensorimotor Rehabilitation Tech,"Medical (Stroke Rehab, Neurorehabilitation)","Hardware, Software, Platform",Commercial,B2B,Unknown,Unknown,https://eodyne.com,B
+INBRAIN Neuroelectronics,Spain,2019,Q1,Invasive,Graphene-based Neural Interface,"Medical (Parkinson's, Epilepsy, Tumor Surgery)",Therapeutic Platform,Clinical,Therapeutic Sales,Series B ($50M in Oct 2024),$330M–$500M (Estimate),https://inbrain-neuroelectronics.com,A
+Neuroelectrics,Spain,2011,Q1,Non-Invasive,"EEG, tES","Research, Clinical (Depression, Epilepsy)","Hardware, Software, Platform",Commercial,B2B/B2C,Series A+ ($42M in Mar 2026),Unknown,https://neuroelectrics.com,B
+Flow Neuroscience,Sweden,2016,Q1,Non-Invasive,tDCS,Medical (Consumer Depression),"Hardware, App",Commercial,B2C (Direct-to-Consumer),Series A ($9M in Aug 2021),Unknown,https://flowneuroscience.com,B
+Neuroba,Sweden,2020,Q3,Non-Invasive,"EEG, fNIRS",Research (AI-native Neural Interface),"Platform, R&D",Research,R&D / Future Licensing,Unknown,Unknown,https://neuroba.com,C
+Braincredible,Switzerland,2021,Q1,Non-Invasive,EEG,Research/Medical,Platform/Data,Commercial,B2B,"2022, Spin-off funding",Unknown,https://braincredible.ch,A
+MindMaze,Switzerland,2012,Q1,Non-Invasive,"EEG, VR","Medical (Stroke, TBI Rehabilitation)","Platform, Software",Commercial,B2B (Hospital Sales),Over $300M,$55M (Revenue Estimate),https://mindmaze.com,A
+Neurosoft Bioelectronics,Switzerland,2019,Q2,Minimally Invasive,"Soft, Stretchable Cortical Electrodes","Medical (Epilepsy, General Neuro)","Hardware, R&D",Preclinical/Clinical,R&D / Future Licensing,Seed ($7.5M in May 2026),$35M–$55M (Estimate),https://neurosoftbio.com,B
+ABILITY Neurotech,Switzerland,2021,Q1,Invasive,ECoG,Medical (Paralysis & Motor Restoration),Hardware/Software,Preclinical/Clinical,B2B,Seed / Spin-out funding,Unknown,https://abilityneurotech.com,A
+Amber Therapeutics,United Kingdom,2021,Q1,Semi-Invasive,Adaptive Neuromodulation,Medical (Urinary Incontinence),Hardware/Platform,Clinical,B2B,Series A ($100M),Unknown,https://ambertherapeutics.com,A
+Cerca Magnetics,United Kingdom,2016,Q1,Non-Invasive,MEG (Optically Pumped Magnetometry),"Research, Clinical (Epilepsy, Dementia)","Hardware, Platform",Commercial,B2B (Sales to Research Centers),Series A ($10M in 2023),$30M (Post-Money Valuation),https://cercamagnetics.com,A
+Charco Neurotech,United Kingdom,2016,Q2,Non-Invasive,EEG/Neuromod,Medical,Hardware/App,Clinical,B2B,"2022, $4M Seed",Unknown,https://charconeurotech.com,B
+CoMind,United Kingdom,2018,Q1,Non-Invasive,Bedside Photonics,"Medical (ICU, ER, Surgery)",Platform,Commercial,Medical Device Sales,Series A ($60M in Oct 2025),Unknown,https://comind.tech,A
+Cogitat Ltd.,United Kingdom,2020,Q3,Non-Invasive,EEG,"Medical (Stroke Rehab), Defense",R&D / Platform,Research,R&D Contract / Future Licensing,Unknown,Unknown,https://cogitat.co.uk,C
+EarSwitch,United Kingdom,2019,Q2,Non-Invasive,EEG,Medical,Hardware,Preclinical,B2B,"2021, Seed",Unknown,https://earswitch.com,B
+Gowerlabs,United Kingdom,2019,Q2,Non-Invasive,fNIRS,Research,Hardware,Commercial,B2B,"2022, $2M Seed",Unknown,https://gowerlabs.co.uk,B
+MintNeuro,United Kingdom,2022,Q1,Semi-Invasive,Ultra-efficient Semiconductor Chips for Neural Implants,Medical (Next-generation Neurological Interventions),"Hardware, Semiconductor",Preclinical,B2B,Seed (£4M via Innovate UK),Unknown,https://mintneuro.com,A
+Neupulse,United Kingdom,2020,Q3,Non-Invasive,Electrical Stimulation,Medical (Tourette Syndrome),"Hardware, App",Commercial,B2C / B2B (Healthcare),£3M (in 2021),Unknown,https://neupulse.co.uk,B
+Neuranics,United Kingdom,2021,Q2,Non-Invasive,Magnetic Sensing (TMR),"Healthcare, XR, Human-Machine Interfacing","Hardware, R&D",Preclinical/Commercial,B2B,Grant / Seed (£2.4M project funding),Unknown,https://neuranics.com,B
+Neurovalens,United Kingdom,2015,Q2,Non-Invasive,EEG/Neuromod,Medical/Consumer,Hardware,Commercial,B2B,"2021, $10M Series A",Unknown,https://neurovalens.com,B
+QV Bioelectronics,United Kingdom,2018,Q1,Invasive,ECoG,Medical,Hardware,Preclinical,B2B,"2024, £4.5M Seed",Unknown,https://qvbio.com,A
+ReNeural,United Kingdom,2019,Q3,Non-Invasive,EEG,Medical,Hardware/ML,Preclinical,B2B,"2023, Seed",Unknown,https://reneural.com,C
