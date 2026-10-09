@@ -7,4 +7,4 @@ Collection of analytics for BCI.
 - data (used datasets & links & metainfo).
 - analysis (research tables and algorithms for "feature engineering & classification data").
 - reports: (Taxonomy, theses, classification, analysis results interpretation).
-
+- acts: display of research status. (Research phases)
